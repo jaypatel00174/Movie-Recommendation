@@ -28,3 +28,15 @@ The problem was divided into several steps:
 ## Repository Structure
 
 1. **movies_recommender.ipynb:** The Jupyter notebook containing code for the recommendation engines
+
+
+## Software Require
+1. Jupyter notebook
+2. Python
+
+## Python libraries
+- Numpy
+- Matplotlib and seaborn
+- scikit-learn
+- **nltk**
+- **surprise**
