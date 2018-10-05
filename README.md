@@ -49,3 +49,6 @@ Two MovieLens datasets are used here. (link : https://www.kaggle.com/rounakbanik
 * **The Small Dataset:** Comprises of 100,000 ratings and 1,300 tag applications applied to 9,000 movies by 700 users.
 
 We will build our Simple Recommender using movies from the *Full Dataset* whereas all personalized recommender systems will make use of the small dataset (due to the computing power I possess being very limited).
+
+# Origin:
+Movies Capstone Project (https://github.com/rounakbanik/movies)
